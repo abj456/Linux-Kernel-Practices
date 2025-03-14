@@ -1,0 +1,3 @@
+[submodule "lab0-c"]
+	path = lab0-c
+	url = https://github.com/abj456/lab0-c.git
